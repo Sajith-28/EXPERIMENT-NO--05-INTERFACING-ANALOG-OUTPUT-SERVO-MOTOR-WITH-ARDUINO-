@@ -60,7 +60,10 @@ GREEN:
 <img width="444" alt="green 5" src="https://github.com/Sajith-28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/149937471/40315c86-87aa-43df-9a60-d72f185782a5">
 
 RED:
-<img width="620" alt="red 5" src="https://github.com/Sajith-28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/149937471/a4e786c9-57e9-4164-bc6a-212d7f72abdf">
+
+<img width="620" alt="red 5" src="https://github.com/Sajith-28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/149937471/8ef3d204-1890-48cb-8a82-fa88addc2bd3">
+
+
 
  
  
@@ -131,9 +134,13 @@ void loop()
 
 ```
 SCHEMATIC DIAGRAM:
+
+
 <img width="441" alt="schematic 5" src="https://github.com/Sajith-28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/149937471/d100298b-54ba-4d82-a181-a292239ff170">
 
 GRAPH:
+
+
 <img width="276" alt="graph 5" src="https://github.com/Sajith-28/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/149937471/da004ad3-7804-4681-853e-c5decfd1259b">
 
 
